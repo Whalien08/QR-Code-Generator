@@ -8,6 +8,14 @@ A clean, responsive web application that generates downloadable QR codes from an
 * **Clear Functionality:** Easily reset the workspace with a dedicated clear button.
 * **Responsive Design:** Adapts smoothly to different screen sizes.
 
+## Demo
+
+**Screenshot:**
+<img src="https://github.com/user-attachments/assets/212cb0f0-6b22-4384-99ca-9bf2e44b1779" alt="QR Code Generator Screenshot" width="800" />
+
+**Video Walkthrough:**
+<video src="https://github.com/user-attachments/assets/88955398-8d6c-466f-ab55-23e597f81f77" controls="controls" muted="muted" width="800"></video>
+
 ## 🛠️ Tech Stack
 * **HTML5** for structure
 * **CSS3** for styling and layout (Flexbox)
