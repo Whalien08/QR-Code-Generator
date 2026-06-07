@@ -1,3 +1,5 @@
+# Simple QR Code Generator
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen.svg)](https://whalien08.github.io/QR-Code-Generator/)
 
 A clean, responsive web application that generates downloadable QR codes from any text or URL input in real-time. 
