@@ -1,0 +1,66 @@
+body {
+    background-color: hsl(30, 54%, 90%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    position: relative;
+    flex-direction: column;   
+    color: hsl(332, 51%, 32%);
+    background-color: hsl(330, 100%, 98%);
+    min-height: 500px;
+    align-items: center;
+    margin: 100px;
+    border-radius: 50px;
+    padding: 50px;
+}
+
+h1 {
+    margin: 0 10px 20px 0;
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    padding: 20px;
+    background-color: hsl(14, 45%, 70%);
+    border-radius: 30px;
+    font-weight: bold;
+    margin: 20px;
+    border: none;
+}
+
+button {
+    margin: 20px;
+    width: 200px;
+    padding: 20px;  
+    background-color: hsl(332, 51%, 80%);
+    border-radius: 50px; 
+    font-weight: bold;
+    border: none;
+    transition: background-color 0.2s;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: hsl(332, 51%, 70%); 
+}
+
+#qrcode {
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+}
+
+#clear-btn {
+    justify-content: center;
+    display: none;
+}
